@@ -107,14 +107,7 @@
     "title": "What you need to know, before you ask.",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Ukraine brings together the world class experts in Android, Web and Cloud technologies to Lviv for 2 days of sessions, workshops and showcases.",
-        "label": "Explore featured session",
-        "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
-      },
-      "howItWas": {
-        "description": "Described by many as 'Google I/O of Ukraine', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
-        "label": "See how it was in 2016",
-        "youtubeId": "TdpbgRgz6eE"
+        "description": "GDG DevFestSE (South-East Nigeria) brings together the world class experts in Android, Web and Cloud technologies to Oko for a full day of sessions, workshops and showcases."
       }
     },
     "statisticsBlock": {
@@ -249,11 +242,11 @@
     }
   },
   "aboutOrganizerBlock": {
-    "image": "/images/team.jpg",
+    "image": "/images/team.jpeg",
     "blocks": [
       {
         "title": "Organizer",
-        "description": "<a href='http://www.gdgoko.com.ng' target='_blank'>GDG Oko</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+        "description": "<a href='http://www.gdgoko.com.ng' target='_blank'>GDG Oko</a> with support of GDGs from all around the south eastern region of Nigeria is proud organizer of DevFest South East 2019",
         "callToAction": {
           "label": "Open team page",
           "link": "/team"
@@ -265,15 +258,6 @@
         "callToAction": {
           "label": "Read more",
           "link": "https://developers.google.com/groups/",
-          "newTab": true
-        }
-      },
-      {
-        "title": "What is DevFest?",
-        "description": "DevFests are community-led developer events hosted by Google Developer Groups around the globe.",
-        "callToAction": {
-          "label": "Read more",
-          "link": "https://devfest.withgoogle.com/",
           "newTab": true
         }
       }

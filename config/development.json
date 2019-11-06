@@ -5,12 +5,12 @@
   "prefix": "/",
   "firebase": {
     "appId": "",
-    "apiKey": "AIzaSyBu9LI-hY4NfUOPJJKuV3BfQm7edLr2-aE",
-    "authDomain": "hoverboard-dev.firebaseapp.com",
-    "databaseURL": "https://hoverboard-dev.firebaseio.com",
-    "projectId": "hoverboard-dev",
-    "storageBucket": "hoverboard-dev.appspot.com",
+    "apiKey": "AIzaSyDPCREI0rwN7In1Z3aqRHXZ96CiKb4qY9A",
+    "authDomain": "devfest19-oko.firebaseapp.com",
+    "databaseURL": "https://devfest19-oko.firebaseio.com",
+    "projectId": "devfest19-oko",
+    "storageBucket": "devfest19-oko.appspot.com",
     "messagingSenderId": "1083195713896"
   },
-  "googleMapApiKey": ""
+  "googleMapApiKey": "AIzaSyBu9LI-hY4NfUOPJJKuV3BfQm7edLr2-aE"
 }

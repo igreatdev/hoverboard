@@ -1,42 +1,5 @@
 {
-  "blog" : {
-    "c4p" : {
-      "backgroundColor" : "#3647a5",
-      "brief" : "GDG DevFest Ukraine was announced, for the sixth year in a row, the conference will bring together 900 developers, managers and...",
-      "content" : "GDG DevFest Ukraine was announced, for the sixth year in a row, the conference will bring together 900 developers, managers and entrepreneurs on **October 13-14** to Lviv.  This year our team is doing big advancement in the content, we're building an extra stage to accommodate more visitors and provide three fully independent tracks on Android, Web and Google Cloud topics.  Our focus is the content. **We’re looking for speakers like you**, who are ready to rock the stage and deliver the best talk or workshop in the field.  \"I've been to conferences all over the world and what you've created in Lviv is world class. It's easily first league of conferences.\" - Piotr Tuszynski, DevFest '16 Keynote Speaker  <div layout horizontal center-justified> <a href=\"http://bit.ly/df17-c4p\" rel=\"noopener noreferrer\">   <paper-button primary>Submit a proposal</paper-button> </a> </div>  ## Why is it cool to speak at the DevFest?  DevFest Ukraine is not an ordinary tech conference, besides selecting only the best speakers, we help them to succeed in delivering an exceptional quality talk on the stage.  Here are few perks that all our speakers get:  - **Expences covered**. Hotel for 3 nights, travel costs and entrance to exclusive speaker parties are covered for all speakers. - **Professional video recording**. We work with experienced video production companies to create session recording of the best quality. Stage, screen, audio, all is recorded separately and combined later. Check the [session videos from the last year](https://www.youtube.com/watch?v=VOwUnBkqmo4). - **Exposure**. By being a speaker, you are proving your level of expertise to a potential business partners or employers. Your talk will be promoted in our online resources and recording published in YouTube channel with more than 35k views. - **Unique networking**. Being a speaker means you’ll have the unique chance to network with other speakers - the best experts in the industry. - **Coaching**. We're in the same boat, after being selected as a speaker our program committee will help you to deliver the best talk possible. We provide information about the audience, presentation templates, feedback on the slides, all to help you to prepare.  \"It was a best DevFest I ever attended. So professional, so much enthusiasm from the community. You managed to bring the vibe of Google I/O to Ukraine.\" - David Vávra, DevFest '16 Speaker  ## What are we looking for?  We're looking for **experience-based talks**, the information that can not be found in the documentation or easily googled. We're looking for your stories, your struggles, research results and experiences with the frontier tools or technologies. Check the [list of topics](https://docs.google.com/document/d/18eGvBr6wdlXsfiZM4EK6SubfL3G1RWj-ABTBN9pngNg/edit?usp=sharing) we're interested in (it is not full and updated all the time).  ### Format  You can submit as many talks as you want. This year we accept submissions in two formats:   - 40 minutes sessions.   - 2(or 3) hours workshops.  ### Talks that will not pass initial review  - Talks about a specific tool/library/project explaining how it works or how to use it.  - Talks whose focus is pitching a company or project. It’s cool that you mention your company during the presentation, but it shouldn’t be the focus of the talk.  - Proposals that are not in English.  - Recruitment talks to attract talent.  We strongly recommend you check out [speaking.io](http://speaking.io/) website from Zach Holman. It includes good tips and guidelines for speakers.   ## Timeline  **Call for Papers submission deadline is July 1, 2017.** Submission results will be announced by July 16.   Any questions? Email organizers at [devfest@gdg.org.ua](mailto:devfest@gdg.org.ua)  <div layout horizontal center-justified> <a href=\"http://bit.ly/df17-c4p\" rel=\"noopener noreferrer\">   <paper-button primary>Submit a proposal</paper-button> </a> </div>",
-      "image" : "/images/posts/c4p.jpg",
-      "published" : "2017-02-12",
-      "source" : "/data/posts/2017-02-12-c4p.md",
-      "title" : "We're looking for speakers"
-    },
-    "dfua-summary" : {
-      "backgroundColor" : "#ffc107",
-      "brief" : "GDG DevFest Ukraine 2016",
-      "content" : " [****DevFest Ukraine****](https://devfest.gdg.org.ua/) - it was fun, advantageous, crowded and exciting event! The scale of DevFest is simply breathtaking - 2 days full of Android, Web and Cloud hardcore!   The 5th annual conference GDG DevFest Ukraine - the biggest one related to Google techlogies in CEE - was held on September 9-10, 2016 in Lviv, Ukraine. The conference was powered by [Google Developers Group Lviv](http://lviv.gdg.org.ua/) (GDG Lviv) in together with the Google Developer Groups from all over Ukraine.   Some terrific facts about DevFest: ----------------------------------  - almost **700 attendees** - great open-minded people, full of  passion and great ideas  - incredibly high concentration of [Google Developer Experts](https://developers.google.com/experts/) in one place - **12** top-notch professionals  - **33 speakers** - well experienced, armed with knowledges and obsessed with Google technologies from all over the world  (UK, Israel, Germany, USA, Poland, Ukraine, Czech Republic, Switzerland, Romania, Turkey, Russia)  - **14** participating **GDG Groups**’ representatives (GDG Krakow, GDG Cherkasy, GDG Basel, GDG Prague, GDG Dnipro, GDG Kyiv-Center, GDG Istanbul, GDG Lviv, GDG Odessa, GDG Ternopil, GDG Uzhhorod, GDG KPI, GDG Kremenchuk, GDG Khmelnytskyi)  - **16** participating countries (UK, Israel, Germany, USA, Poland, Ukraine, Czech Republic, Switzerland, Romania, Turkey, Russia, The Netherlands, Belarus, Finland, Kazakhstan, Côte d’Ivoire)  - lots of sessions were full of deep knowledge and inspiration. Only technical stuff, only hardcore! Android sessions as always overcrowded.  <plastic-image srcset=\"/images/posts/summary16_2.jpg\" lazy-load preload fade></plastic-image>  - Progressive Web Apps (PWA) theme was the most popular on Web track, moreover, people could try it in practice on 2 workshops, hold by [Martin Splitt](http://localhost:4040/speakers/41/) and [Jakub Škvára](http://localhost:4040/speakers/18/).  <plastic-image srcset=\"/images/posts/summary16_3.jpg\" lazy-load preload fade></plastic-image>  - amazing demo zones were around (AR-music, DIY cardboards, Tilt Brush....)  <plastic-image srcset=\"/images/posts/summary16_4.jpg\" lazy-load preload fade></plastic-image>  - especially Emotobooth  <plastic-image srcset=\"/images/posts/summary16_5.jpg\" lazy-load preload fade></plastic-image>  - a big number of epic selfies :)  <plastic-image srcset=\"/images/posts/summary16_6.jpg\" lazy-load preload fade></plastic-image>  - the silent party was definitely something new for everyone! People rocked the floor like they never do before!  <plastic-image srcset=\"/images/posts/summary16_8.jpg\" lazy-load preload fade></plastic-image>   The conference became possible through the support of a number of companies. **Big THANK** to all of DevFest’s sponsors, namely: - *General partner* - [Google](https://www.google.com.ua/intl/en/about/) - *Diamond partner* - [intouch](http://www.intouchmena.com/) - *Platinum partners* - [CoreValue](http://www.corevalue.com.ua/), [GlobalLogic](http://www.globallogic.com/), [Wolters Kluwer](http://wolterskluwer.com/), [N-iX](http://n-ix.com/), [Mirantis](https://www.mirantis.com/), [DataArt](http://dataart.ua/), [Zalando](https://tech.zalando.de/), [FM Standart](http://fm-standard.com/en), [Design Proof](http://designprof.com.ua/) - Gold partners -  [Ciklum](https://www.ciklum.com/), [Sigma](http://sigma.software/), [Rucus](https://www.ruckuswireless.com/).  And, of course, a BIG THANK to all the volunteers from different GDG groups of Ukraine for their priceless help.  <plastic-image srcset=\"/images/posts/summary16_7.jpg\" lazy-load preload fade></plastic-image>  We hope you found the conference informative and worthwhile. The primary goal of DevFest  was to bring together all of you - professionals and passionate geeks of our industry - from around the world to exchange experience, share valuable knowledges and to contribute in possible strategies as to how Ukraine can become recognized and more engaged in initiatives taking place in developing IT industry and education first of all.  Your presence helped to make this event a great success, and your enthusiasm and positive spirit helped to make our time together both productive and fun.  We wish you all the best and hope that you continue to be engaged with the DevFest Ukraine. BTW, stay tuned for upcoming events by visiting [lviv.gdg.org.ua](http://lviv.gdg.org.ua/) and subscribing to our news, like us on [Facebook](https://facebook.com/GDGLviv) and follow on [Twitter](https://twitter.com/intent/user?screen_name=GDGLviv)!  Post-Conference Follow-Up ------------------------- As a reminder, we are working on transcribing the plenary sessions' slides (in ~1 week) and HD video records (in ~1-2 months), and once everything has been aggregated, we’ll notify you.  Please visit our Facebook [page](https://www.facebook.com/GDGLviv/) to view the photos, or the DevFest [website](https://devfest.gdg.org.ua/) in one week.  See you at the next events!   With love,  GDG DevFest Ukraine Team",
-      "image" : "/images/posts/summary16_1.jpg",
-      "published" : "2016-09-10",
-      "source" : "/data/posts/2016-09-10-dfua-summary.md",
-      "title" : "DevFest Ukraine rocked - SUMMARY"
-    },
-    "dfua17-announced" : {
-      "backgroundColor" : "#2196F3",
-      "brief" : "It is official. GDG DevFest Ukraine 2017 is going to take place in Lviv, on October 13-14.",
-      "content" : "It is official. GDG DevFest Ukraine 2017 is going to take place in **Lviv, on October 13-14**.  Described by many as \"Google I/O of Ukraine\", DevFest has grown from the small 100-people event to the biggest Google tech conference in the Central and Eastern Europe. This year, we expect over 900 engineers, managers, and entrepreneurs from over 20 countries come to DevFest to learn about Android, Web and Cloud technologies, and to experience the phenomenal atmosphere.  ## What to expect?  **3 parallel Tracks and Workshops Area.** You asked, we did. We're building an additional stage and expanding Workshops Area to highlight even more topics and provide more hands-on time.  **Only experience based presentations.** Speakers from product companies like Google, Intel, Amazon, and Twilio. We take talk selection seriously. Our program committee carefully screens each and every submission.  **Expo Area.** Smart home, IoT, AR/VR devices, face emotions recognition using Google Cloud. Interested? With the help of GDG groups from all around Ukraine, DevFest is going to feature the biggest Expo Area on Google related devices and technologies.  **Unique networking and party.** Network with other like-minded industry colleagues and DevFest partners throughout the event and after-party.  <div layout horizontal center-justified> <a href=\"https://2event.com/events/800690\" rel=\"noopener noreferrer\">   <paper-button primary>Buy ticket</paper-button> </a> </div>   ## Stay in touch  We've already got first confirmations from speakers from Google, Twilio and Telerik. Subscribe to [DevFest newsletter](https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe) or follow us on [Facebook](https://www.facebook.com/devfest.ukraine/), [Twitter](https://twitter.com/devfest_ukraine) and [Instagram](https://www.instagram.com/devfestukraine) not to miss new speakers announcements and conference updates.   <span><i> We can't wait to meet you in Lviv, the rising tech capital of Ukraine.</br> GDG DevFest Ukraine Team. </i></span>",
-      "image" : "/images/posts/dfua17-announced.jpg",
-      "published" : "2017-02-06",
-      "source" : "/data/posts/2017-02-06-dfua17-announced.md",
-      "title" : "Announcing GDG DevFest Ukraine 2017"
-    },
-    "thank-you" : {
-      "backgroundColor" : "#5a7785",
-      "brief" : "Our team wants to thank one more time our partners, who made GDG DevFest Ukraine 2016 possible...",
-      "content" : "We want to thank one more time our partners, who made [DevFest 2016](https://devfest.gdg.org.ua/) possible! THANK YOU for being creative and motivating our participants for new challenges, THANK YOU for your experiments and expertise during the insane 2 days of GDG DevFest Ukraine. With love, GDG DevFest Ukraine Team",
-      "image" : "/images/posts/thankyou_2.jpg",
-      "published" : "2016-09-29",
-      "source" : "/data/posts/2016-09-29-thank-you.md",
-      "title" : "Thank you all for your support"
-    }
-  },
+  "blog" : {},
   "gallery" : [
     "https://photos.google.com/share/AF1QipPsQx8jM7dpTesd9RoH7smRMN4g4AOO3V50uJCcAxYTdea6S4YA4uiPOkRaKgm24w/photo/AF1QipPqA_MbyLSGdJfprB3rIo5pTpm05i9uH1vXpdTQ?key=cUlxQ0VpWGNUTXVjNzVjREhqdmZLTVpoNTZDdXhR",
     "https://photos.google.com/share/AF1QipPsQx8jM7dpTesd9RoH7smRMN4g4AOO3V50uJCcAxYTdea6S4YA4uiPOkRaKgm24w/photo/AF1QipMds4AJlKXUqQSe2bg6rxIOflm8EGRFlr8vvYE3?key=cUlxQ0VpWGNUTXVjNzVjREhqdmZLTVpoNTZDdXhR",
@@ -130,50 +93,73 @@
     "2019-11-29" : {
       "dateReadable" : "November 29",
       "timeslots" : [ {
-        "endTime" : "10:00",
+        "endTime" : "08:55",
         "sessions" : [ {
           "items" : [ 132 ]
         } ],
-        "startTime" : "09:00"
+        "startTime" : "08:00"
       }, {
-        "endTime" : "10:15",
+        "endTime" : "09:10",
         "sessions" : [ {
           "items" : [ 136 ]
         } ],
-        "startTime" : "10:00"
+        "startTime" : "09:00"
       }, {
-        "endTime" : "11:00",
+        "endTime" : "09:30",
         "sessions" : [ {
           "items" : [ 139 ]
         } ],
+        "startTime" : "09:10"
+      }, {
+        "endTime" : "10:00",
+        "sessions" : [ {
+          "items" : [ 135 ]
+        } ],
+        "startTime" : "09:30"
+      }, {
+        "endTime" : "10:15",
+        "sessions" : [ {
+          "items" : [ 141 ]
+        } ],
+        "startTime" : "10:00"
+      }, {
+        "endTime" : "10:45",
+        "sessions" : [ {
+          "items" : [ 103 ]
+        } ],
         "startTime" : "10:15"
       }, {
-        "endTime" : "11:40",
+        "endTime" : "11:15",
         "sessions" : [ {
-          "items" : [ 103, 112 ]
-        }, {
-          "items" : [ 120 ]
-        }, {
-          "extend" : 3,
-          "items" : [ 109 ]
+          "items" : [  ]
         } ],
-        "startTime" : "11:00"
+        "startTime" : "10:45"
+      }, {
+        "endTime" : "11:30",
+        "sessions" : [ {
+          "items" : [ 102 ]
+        } ],
+        "startTime" : "11:15"
+      }, {
+        "endTime" : "12:00",
+        "sessions" : [ {
+          "items" : [ 101 ]
+        } ],
+        "startTime" : "11:30"
       }, {
         "endTime" : "12:30",
         "sessions" : [ {
-          "items" : [ 129 ]
-        }, {
-          "items" : [ 116 ]
+          "items" : [ 142 ]
         } ],
-        "startTime" : "11:50"
+        "startTime" : "12:00"
       }, {
-        "endTime" : "14:00",
+        "endTime" : "12:45",
         "sessions" : [ {
-          "items" : [ 133 ]
+          "items" : [ 143 ]
         } ],
         "startTime" : "12:30"
       }, {
-        "endTime" : "14:40",
+        "endTime" : "14:00",
         "sessions" : [ {
           "items" : [ 101 ]
         }, {
@@ -182,7 +168,7 @@
           "extend" : 2,
           "items" : [ 107 ]
         } ],
-        "startTime" : "14:00"
+        "startTime" : "12:50"
       }, {
         "endTime" : "15:30",
         "sessions" : [ {
@@ -243,287 +229,87 @@
   "sessions" : {
     "101" : {
       "complexity" : "Beginner",
-      "description" : "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
+      "description" : "Developers Experience",
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/mete-atamel-windows-and-net-on-google-cloud-platform",
-      "speakers" : [ "mete_atamel", "adrian_kajda" ],
-      "tags" : [ "Cloud" ],
-      "title" : "Windows and .NET on Google Cloud Platform "
+      "speakers" : [ "ada_nduka" ],
+      "tags" : [ "General" ],
+      "title" : "Developers Experience."
     },
     "102" : {
       "complexity" : "Beginner",
-      "description" : "Do you remember the game Simon says from the 80s? I don’t know about you, but I know many that spent hours trying to press those specific sequences of red, green, blue and yellow buttons in the correct order. But why play on your own? We’ve implemented a gRPC server that allows you to play Simon with other players over the internet!\n\nIn this workshop we will dive into the toolset and libraries to build your very own Simon Says client for this server. We will have a message description in Protocol Buffers format and some stub code in several languages ready for you to play with. The goal for this workshop is for you to have a working client that you can use to play (and beat!) other attendees of the workshop.",
+      "description" : "Meet Google Home, powered by the Google Assistant. The original Google Home gives you hands-free help, and the new Google Home Mini lets you experience it in more places. Whichever you choose, you can get answers, enjoy your entertainment, manage your day, and control your smart home, all using just your voice.",
       "language" : "English",
-      "speakers" : [ "mete_atamel" ],
-      "tags" : [ "Cloud" ],
-      "title" : "Hands-on gRPC experience building your own multiplayer game client"
+      "speakers" : [ "nsikak_thompson" ],
+      "tags" : [ "Assistant", "AI" ],
+      "title" : "Experience Google Assistant with Google Home"
     },
     "103" : {
-      "complexity" : "Intermediate",
-      "description" : "Doze mode is just around the corner. \nIntroduced in Marshmallow, as the shy guy that was allowed to step in only when your device went to sleep. ZzzZzzzz\nWith the new N release, Doze mode becomes the rockstar. He rushes into the room with a big shabang by shooting all background services and network requests that forgot to get away. \nHe should no longer be shy. He just shoots and dances on bones of your scheduled alarms, while you wonder why this particular task is no longer running.\nWith the new Doze mode, you require to adapt your app architecture to the new reality.\nOn this talk, we will learn how to survive Doze mode using Job Scheduler, Content Provider and stay in one piece.",
+      "complexity" : "Beginner",
+      "description" : "Developers Attitude.",
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/yonatan-levin-knock-knock-whos-there-doze",
-      "speakers" : [ "yonatan_levin" ],
-      "tags" : [ "Android" ],
-      "title" : "Knock knock! Who's there? Doze."
+      "speakers" : [ "hanson_johnson" ],
+      "tags" : [ "General" ],
+      "title" : "Developers Attitude."
     },
     "104" : {
-      "complexity" : "Beginner",
-      "description" : "It's no longer just about digitizing our environment. It’s rather about pervasive and ubiquitous computing. Almost all everyday things will turn into connected devices soon. This “Internet of Things” will allow the Web to be physically tangible. But what is the value, and how can one prevent IoT applications which just seem to be only more expensive and complicated than conventional solutions. Sascha will discuss the purpose and guide you through this complex topic showing inspiring solutions, tips from practice, and code samples in a variety of technologies from simple Bluetooth Eddystone Beacons to more sophisticated IoT platforms like Eclipse SmartHome.",
+      "complexity" : "Intermediate",
+      "description" : "-",
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/sascha-wolter-the-physical-web-context-is-king",
-      "speakers" : [ "sascha_wolter" ],
-      "tags" : [ "Web" ],
-      "title" : "The Physical Web: Context is King!",
-      "videoId" : "fLfQNp75kbc"
+      "speakers" : [ "aminat_atanda" ],
+      "tags" : [ "Android" ],
+      "title" : "Essence of object oriented concepts in android development."
     },
     "105" : {
-      "complexity" : "Intermediate",
-      "description" : "TBD",
+      "complexity" : "Beginner",
+      "description" : "Design Approach",
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/rustem-arzymbetov-intro-to-tensorflow",
-      "speakers" : [ "rustem_arzymbetov" ],
-      "tags" : [ "Cloud" ],
-      "title" : "Intro to TensorFlow",
-      "videoId" : "e3cuSz1hEPs"
+      "speakers" : [ "mfonobong" ],
+      "tags" : [ "UI/UX" ],
+      "title" : "Design Approach"
     },
     "106" : {
       "complexity" : "Beginner",
-      "description" : "Fuelio. Success story (I'll write more info later)",
+      "description" : "Google Assistant is an artificial intelligence-powered virtual assistant developed by Google that is primarily available on mobile and smart home devices.",
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/adrian-kajda-fuelio-success-story",
-      "speakers" : [ "adrian_kajda" ],
+      "speakers" : [ "nsikak_thompson" ],
       "tags" : [ "Android" ],
-      "title" : "Fuelio. Success story",
-      "videoId" : "qK7ysoohsaM"
+      "title" : "Google Assistant"
     },
     "107" : {
       "complexity" : "Beginner",
-      "description" : "There's been much discussion about Progressive Web Apps. They're still a relatively new model. In this talk, I'll summarise few options and techniques for getting started with your own Progressive Web App",
+      "description" : "Flutter is an open-source UI software development kit created by Google. It is used to develop applications for Android, iOS, Windows, Mac, Linux, Google Fuchsia. and the web.",
       "extend" : 2,
       "language" : "English",
-      "speakers" : [ "gerard_sans" ],
-      "tags" : [ "Web" ],
-      "title" : "Introduction to Progressive Web Apps in Angular 2"
+      "speakers" : [  ],
+      "tags" : [ "Mobile" ],
+      "title" : "Flutter"
     },
     "108" : {
       "complexity" : "Intermediate",
-      "description" : "Angular 2 introduces a new Data Architecture based on Reactive Programming using RxJS 5. We are really excited to see the new approach using Observable sequences aka Observables. We will cover a basic introduction of Angular 2 followed by RxJS 5 and the new HTTP API covering some basic use cases.",
+      "description" : "DevOps is a set of practices that automates the processes between software development and IT teams, in order that they can build, test, and release software faster and more reliably. ",
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/gerard-sans-new-data-architecture-in-angular-2",
-      "speakers" : [ "gerard_sans" ],
-      "tags" : [ "Web" ],
-      "title" : "New Data Architecture in Angular 2",
-      "videoId" : "pgmLkwD-mqM"
+      "speakers" : [ "emmanuel_bakare" ],
+      "tags" : [ "DevOps" ],
+      "title" : "DevOps"
     },
     "109" : {
-      "complexity" : "Beginner",
-      "description" : "TBD",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/jozef-vodicka-how-much-money-firebase-can-save-you",
-      "speakers" : [ "jozef_vodicka" ],
-      "tags" : [ "Cloud" ],
-      "title" : "How much money Firebase can save you"
-    },
-    "110" : {
-      "complexity" : "Intermediate",
-      "description" : "There's a lot of hype around MVP pattern in the Android world. Now it's time for concretes. During his presentation Mateusz will tell you how IG divided responsibilities between pattern's different components, how they tied Presenters' and Views' lifecycles and what they did to make it all testable. If you'd love to make your Fragments' and Activities' code simpler and increase your coverage, but you're confused how to glue it all together - don't miss Mateusz's talk.",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/mateusz-herych-the-ultimate-guide-to-mvp-pattern-on-android",
-      "speakers" : [ "mateusz_herych" ],
-      "tags" : [ "Android" ],
-      "title" : "The ultimate guide to MVP pattern on Android"
-    },
-    "111" : {
-      "complexity" : "Intermediate",
-      "description" : "It's beauty, it's handy, it's fast, it's easy - all about Dagger 2",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/kseniia-shumelchyk-building-modular-architecture-apps-with-dagger-2",
-      "speakers" : [ "david_mayboroda" ],
-      "tags" : [ "Android" ],
-      "title" : "Building modular architecture apps with Dagger 2"
-    },
-    "112" : {
-      "complexity" : "Intermediate",
-      "description" : "Last year brought a lot of new capabilities to browsers, fundamentally changing the way we will build web apps in 2016. 60FPS, push messages, offline support and background sync became a reality marking the birth of Progressive Web Apps.",
-      "language" : "English",
-      "speakers" : [ "konrad_dzwinel" ],
-      "tags" : [ "Web" ],
-      "title" : "Building web apps in 2016"
-    },
-    "113" : {
-      "complexity" : "Intermediate",
-      "description" : "Microservices is coming with a certain workload and constraints. Let's try to see how Google Cloud Platform and App Engine can help the overall microservices implementation.",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/jean-baptiste-clion-microservices-in-google-app-engine",
-      "speakers" : [ "jean-baptiste_clion" ],
-      "tags" : [ "Cloud" ],
-      "title" : "Microservices in Google App Engine"
-    },
-    "114" : {
-      "complexity" : "Intermediate",
-      "description" : "Storing account information is a common challenge many app developers face, and is often tackled in tailored solutions. Isn't there some strategy to store account credentials in a centralized place?\n\nWhat about considerations for multiple accounts? Security concerns? And when should or could I synchronize data?\n\nAndroid offers a powerful—and underrated—account manager. Let's explore the possibilities together and lay out an architecture for engineering an Android app based on accounts.",
-      "language" : "English",
-      "speakers" : [ 12 ],
-      "tags" : [ "Android" ],
-      "title" : "I’ve been doing some syncing…"
-    },
-    "115" : {
-      "complexity" : "Beginner",
-      "description" : "Upcoming Android N release will bring some interesting changes to both Android run-time and toolchain. Let's talk about JIT, AOT, hybrid JIT/AOT, Jack, Jill and other acronyms and codenames ;-) In this presentation we'll see how many awesome tricks are needed to make our apps start fast and run smoothly on modern Android devices. Hopefully we'll also answer the most important question -- what's next for Android after Java.",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/aleksander-piotrowski-android-tool-chain-and-run-time-improvements-in-n",
-      "speakers" : [ "paul_lammertsma" ],
-      "tags" : [ "Android" ],
-      "title" : "Android tool-chain and run-time improvements in N",
-      "videoId" : "WqULb6bdwwg"
-    },
-    "116" : {
-      "complexity" : "Beginner",
-      "description" : "One of my favourite things about the web are ASCII smileys. They're sweet, fun and simply make the web a better place. How could anyone not like them ¯(ツ)/¯?\n\nThis talk is an overdose of smileys, because they're the perfect excuse to get started with Polymer. Polymer is a library built on top of the Web Components standards that helps developers create reusable components for the modern web. And since I know that everybody has been wondering how one could take over the world by creating a suite of Polymer animated emoticon components, we're going to do exactly that.",
-      "language" : "English",
-      "presentation" : "http://carmenpopoviciu.github.io/on-polymer-and-smileys/",
-      "speakers" : [ "aleksander_piotrowski" ],
-      "tags" : [ "Web" ],
-      "title" : "On Polymer and smileys... or Polysmileys"
-    },
-    "117" : {
-      "complexity" : "Beginner",
-      "description" : "Data is becoming one of the main decision-makers in an organisation. The more data we have the more challenges we face every day. Every decision we make will have long-term implications. In the talk we will go through different approaches to the data pipelines: from a simple in-house built, with comparison to open source solutions based on Apache stack(Apache Kafka, Apache Samza, Spark) and finally hosted auto-scaling solutions based Amazon(S3, Kinesis, Lambda, EMR) or Google(Pub/Sub, Dataflow, BigQuery). The talk covers the main aspects of data collecting processes altogether with further implications for data processing, highlighting appropriate solutions and architectures for the particular use-cases. ",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/sergii-khomenko-building-data-pipelines-from-simple-to-more-advanced-hands-on-experience",
-      "speakers" : [ "carmen_popovicu" ],
-      "tags" : [ "Cloud" ],
-      "title" : "Building data pipelines: from simple to more advanced - hands-on experience"
-    },
-    "118" : {
       "complexity" : "Intermediate",
       "description" : "TBD",
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/dmytro-danylyk-kotlin-plus-android",
-      "speakers" : [ "sergii_khomenko" ],
-      "tags" : [ "Android" ],
-      "title" : "Kotlin + Android"
-    },
-    "119" : {
-      "complexity" : "Beginner",
-      "description" : "Writing Android apps is usually fun because you are actually building something. But what about writing tests? Boring stuff. Errr, UI tests? I am a developer!\n\nIn this talk we will take a look at options for UI tests on Android, why you should write them and how they help you with your app development workflow. No more untested apps!",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/jana-moudra-hands-on-with-ui-testing-for-android-developers",
-      "speakers" : [ "dmytro_danylyk" ],
-      "tags" : [ "Android" ],
-      "title" : "Hands-on with UI testing for Android developers"
-    },
-    "120" : {
-      "complexity" : "Beginner",
-      "description" : "\"Remember back when AJAX completely changed what was possible in the desktop web? Progressive web apps are that same fundamental shift for the mobile web.\" said Rahul Row-Chowdhury (Google’s product lead for chrome and the web platform) on stage at Google I/O 2016. - Progressive web apps use service workers, app shell, push notifications, RAIL and other capabilities to deliver an app-like user experience.",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/jakub-skvara-progressive-web-apps-prepare-your-web-for-2017",
-      "speakers" : [ "jana_moudra" ],
-      "tags" : [ "Web" ],
-      "title" : "Progressive web apps - prepare your web for 2017"
-    },
-    "121" : {
-      "complexity" : "Intermediate",
-      "description" : "Using service workers and other modern progressive web apps capabilities we can update our web applications to be offline-fires. In this session we'll show how to easily convert your applications be usable without the internet connection.",
-      "language" : "English",
-      "speakers" : [ "jana_moudra" ],
-      "tags" : [ "Web" ],
-      "title" : "Offline-first progressive web apps"
-    },
-    "122" : {
-      "complexity" : "Intermediate",
-      "description" : "I would like to talk about architecture of our Settle Up app. It's all based on new Firebase announced on I/O with the help of modern frameworks like Rx, Kotlin and MVP.",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/david-vavra-firebase-plus-kotlin-plus-rxjava-plus-mvp-practical-tips",
-      "speakers" : [ "jakub_škvára" ],
-      "tags" : [ "Android" ],
-      "title" : "Firebase + Kotlin + RxJava + MVP: Practical Tips",
-      "videoId" : "b9NgjqM6dvk"
-    },
-    "123" : {
-      "complexity" : "Beginner",
-      "description" : "TBD",
-      "language" : "English",
-      "speakers" : [ "david_vávra" ],
-      "tags" : [ "Web" ],
-      "title" : "TBD"
-    },
-    "124" : {
-      "complexity" : "Intermediate",
-      "description" : "You are tired of building every patch for your QA ? Still deploying to google play manually ? You still think that build server is something that you don't need ? Than I will try to show you how you can make life of your team easier with CI.",
-      "language" : "English",
-      "speakers" : [ "valentyn_shybanov" ],
-      "tags" : [ "Android" ],
-      "title" : "Continues Integration in Android",
-      "videoId" : "MmGDQkgknfY"
-    },
-    "125" : {
-      "complexity" : "Intermediate",
-      "description" : "TBD",
-      "language" : "English",
-      "speakers" : [ "sergiy_mokienko" ],
-      "tags" : [ "Cloud" ],
-      "title" : "Kubernetes in a real world"
-    },
-    "126" : {
-      "complexity" : "Intermediate",
-      "description" : "Imagine the world where you can get any application, look into its code (even if it is not open sourced) and modify any conditional operator in any way you like. Welcome, you are in the Android applications world! Let's discover how anyone can decompile your app and, for example, hack your 'if' operators. For the beginning, we will play a role of a script kiddie and try to hack some simple app. After this, we will pretend security-conscious Android developers and try to think how we can protect ourselves.",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/michael-pustovit-android-hacking-for-dummies-if-operator-demolytion",
-      "speakers" : [ "ihor_dvoretskyi" ],
-      "tags" : [ "Android" ],
-      "title" : "Android hacking for dummies: ‘if’ operator demolytion",
-      "videoId" : "We04nyIIsA0"
-    },
-    "127" : {
-      "complexity" : "Intermediate",
-      "description" : "If you have any experience with Android Media Player, you definitely know how hard it is to prepare it and do not lose your mind. ExoPlayer - is an alternative, which can help you deal with media with much less pain. So lets discuss if it really a \"silver bullet\" or yet another State Machine hell.",
-      "language" : "Ukrainian",
-      "presentation" : "https://speakerdeck.com/gdglviv/anton-minashkin-exoplayer-media-playback-without-pain-almost-dot-dot-dot",
-      "speakers" : [ "michael_pustovit" ],
-      "tags" : [ "Android" ],
-      "title" : "ExoPlayer: Media playback without pain (almost...)"
-    },
-    "128" : {
-      "complexity" : "Beginner",
-      "description" : "Google announced Android Wear 2.0 become available this Fall. This major update brings some revolutionary changes in platform, that should change our approaches in developing wearable apps, including freedom of BLE tethering, system support for complications and activity recognition by GoogleFit, developed mainly for Android Wear 2.0. We will talk deeper about these new features and look at some ways to implement them in the code.",
-      "language" : "English",
-      "speakers" : [ "anton__minashkin" ],
-      "tags" : [ "Android" ],
-      "title" : "Android Wear 2.0: Great Changes Upcoming this Fall"
-    },
-    "129" : {
-      "complexity" : "Intermediate",
-      "description" : "Accessibility is a very important step to make sure that your app reaches everyone in an easy and fun way to use. \nGood accessibility support means much more than just making sure the app supports screen readers, different fonts sizes and good contrast ratios. It is a learning process, and one in which we ourselves still have much to learn and explore. ",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/resul-caner-yildirim-accessibility-on-android",
-      "speakers" : [ "constantine_mars" ],
-      "tags" : [ "Android" ],
-      "title" : "Accessibility on Android"
-    },
-    "130" : {
-      "complexity" : "Intermediate",
-      "description" : "Wearable devices are one of the most popular things nowadays. Specially, after the Apple Watch, we finally get the whole picture of the entire list of products and their features. Now, we can talk about how we can design a user experience for this type of devices.\nEvery platform has it's own design principles and approaches. But, in the core, they all need to follow same core rules. So, how we combine this core requirements with Google's Material Design and use them on an Android Wear device? Let's learn!",
-      "language" : "English",
-      "speakers" : [ "constantine_mars" ],
-      "tags" : [ "Android" ],
-      "title" : "Designing an Android Wear Application"
+      "speakers" : [  ],
+      "tags" : [ "Android", "IOT" ],
+      "title" : "Android Things | IOT"
     },
     "131" : {
-      "complexity" : "Intermediate",
-      "description" : "In this talk, I will reveal you all the deepest secrets of using MVVM architecture in Android. \nWe will discuss on how to organise your application, views, models, how to retrieve data from the model requested from the view via data binding. \nLightweight Activities and Fragments, is it even possible? \n\nYes, and I will show you how to achieve this with MVVM and DataBinding!",
+      "description" : "Leveraging Technology Platforms to Solve Local Challenges",
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/roman-herasymenko-deal-with-it-android-databinding-explained",
-      "speakers" : [ "resul_caner__yildirim" ],
-      "tags" : [ "Android" ],
-      "title" : "Deal with it: Android DataBinding explained"
+      "title" : "Panel Discussion"
     },
     "132" : {
-      "description" : "Get your badge, coffee, enjoy talking with tech edicts around",
+      "description" : "Get your badge, enjoy talking with tech edicts around",
       "icon" : "registration",
       "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fregistration.jpg?alt=media&token=27328646-d323-4cca-904c-75f021bc3ffe",
-      "title" : "Registration & morning Coffee"
+      "title" : "Arrival and Registration"
     },
     "133" : {
       "description" : "Foooooooood!",
@@ -548,21 +334,16 @@
       "icon" : "opening",
       "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b",
       "language" : "English",
-      "title" : "GDG DevFest Ukraine 2016 Opening"
-    },
-    "137" : {
-      "description" : "Afterparty is a great time to have some fun and meet new people",
-      "icon" : "party",
-      "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fparty.jpg?alt=media&token=8e413f01-373a-40bf-bb87-1dcf1d8e6af1",
-      "title" : "Afterparty & Networking"
+      "speakers" : [ "okeke_chimezie" ],
+      "title" : "GDG DevFestSE OKO 2019 Opening"
     },
     "138" : {
-      "description" : "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session.",
+      "description" : "Make sure you won't miss closing ceremony, all gifts from our sponsors and partners will find their owners during this session.",
       "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fclosing.jpg?alt=media&token=f02d014a-09ee-407e-88c7-b74093e00fed",
-      "title" : "Conference closing and contest winners announcements"
+      "title" : "Conference closing, contest winners announcements, photographs"
     },
     "139" : {
-      "description" : "",
+      "description" : "The Role of Tech Community and Google Technologies for Economic Growth",
       "language" : "English",
       "title" : "Keynote"
     },
@@ -570,6 +351,22 @@
       "description" : "TBD",
       "language" : "English",
       "title" : "TBD"
+    },
+    "141" : {
+      "description" : "Recognition ot the organizers, LOC.",
+      "language" : "English",
+      "speakers" : [ "okeke_chimezie" ],
+      "title" : "Recognition of Organizers/LOC"
+    },
+    "142" : {
+      "description" : "App demo",
+      "language" : "English",
+      "title" : "App demo"
+    },
+    "143" : {
+      "description" : "Interlude",
+      "language" : "English",
+      "title" : "Interlude"
     }
   },
   "speakers" : {
@@ -615,25 +412,45 @@
       "order" : 1,
       "title" : "Dev. Rel"
     },
-    "chris_nwamba" : {
-      "bio" : "Senior Cloud Developer Advocate, Microsoft.",
-      "company" : "Microsoft",
-      "companyLogo" : "/images/logos/microsoft.png",
-      "companyLogoUrl" : "https://design.google/images/google-g.svg",
-      "country" : "Lagos, Nigeria",
+    "nsikak_thompson" : {
+      "bio" : "Andriod Team Lead.",
+      "company" : "Start Innovation Hub",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Uyo, Nigeria",
       "featured" : true,
-      "name" : "Christian Nwamba",
-      "photo" : "/images/people/chris_nwamba.jpg",
-      "photoUrl" : "https://pbs.twimg.com/profile_images/1105185322084847623/EPx48HPQ_400x400.jpg",
+      "name" : "Nsikak Thompson",
+      "photo" : "",
+      "photoUrl" : "https://pbs.twimg.com/profile_images/1179715157074862080/6EoLj8Hd_400x400.jpg",
       "pronouns": "he/him",
-      "shortBio" : "Senior Cloud Developer Advocate, Microsoft.",
+      "shortBio" : "Andriod Team Lead.",
       "socials" : [ {
         "icon" : "twitter",
-        "link" : "https://twitter.com/codebeast",
+        "link" : "https://twitter.com/hinsikak",
         "name" : "Twitter"
       } ],
       "order" : 1,
-      "title" : "Developer 🥑"
+      "title" : "Andriod Developer"
+    },
+    "mfonobong" : {
+      "bio" : "Figma Uyo Ambassador.",
+      "company" : "",
+      "companyLogo" : "",
+      "companyLogoUrl" : "http://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2qVsJ?ver=3f74",
+      "country" : "Uyo, Nigeria",
+      "featured" : true,
+      "name" : "Mfonobong Umondia",
+      "photo" : "/images/people/mfonobong.jpg",
+      "photoUrl" : "https://pbs.twimg.com/profile_images/1126256398646620161/M6e4ohbc_400x400.png",
+      "pronouns": "she/her",
+      "shortBio" : "Figma Uyo Ambassador.",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/bella_mfonobong",
+        "name" : "Twitter"
+      } ],
+      "order" : 1,
+      "title" : "Freelance UI/UX Designer"
     }
   },
   "team" : [ {
